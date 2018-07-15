@@ -169,9 +169,9 @@ footer {
 /*********************************End Media Queries****************************************/
 /**************************/
 /***added by zack for private profile***/
-img{border-radius: 50%}
+img{border-radius: 50%;width: 200px;height:200px;}
 h1,h2{font-family: Microsoft-Yahei}
 h2{display: inline-block;margin-left: 10px;clear: right;font-style: italic;}
 .tag{font-size: 21px;color: #a09f9f;font-family: Microsoft-Yahei;}
 .base-block{margin: 5px 5px 5px 10px}
-.pure-u-1-2 span{font-size: 15px;font-style: initial;display: inline-block;padding-top:5px;color:#ffffff}
+.pure-u-1-1 span,.pure-u-1-2 span{font-size: 15px;font-style: initial;display: inline-block;padding-top:5px;color:#ffffff}
