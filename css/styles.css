@@ -102,6 +102,7 @@ span, .date {
 .colLeft {
 	width:31.041666666666666666666666666667%;
 	float:left;
+	clear: right;
 	text-align:right;
 }
 .colRight {
